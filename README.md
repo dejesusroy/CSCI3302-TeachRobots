@@ -40,12 +40,11 @@ Zijun modified the inverse kinematic code to work over a bluetooth port. He util
 connect to the 
 
 ## Results
-This project was a little more difficult that expected. There were many methods of completing the
-visual portion which was my responsibility. I attempted to complete by using Haar Cascades but
-realized this would take much too long and would not be completed with the time alloted. I then
-wanted to use multiple shape detection but the program had troubles differentiating between the objects.
-I ended up simply using cicles to detect the objects and color to filter through the options. There are many 
-ways to improve this, given the time. I may return as openCV has many options that I want to improve on.
-
+This project was a little more difficult that expected. We had many compatibility issues with the first camera.
+We ended up rigging our macbook camera. There were also many methods of completing the visual portion which was my
+responsibility. I attempted to complete by using Haar Cascades but realized this would take much too long and would not be
+completed with the time alloted. I then wanted to use multiple shape detection but the program had troubles differentiating
+between the objects.I ended up simply using cicles to detect the objects and color to filter through the options.
+There are many ways to improve this, given the time. I may return as openCV has many options that I want to improve on.
 
 Resulting video: https://youtu.be/lbfPLBYJUpA
